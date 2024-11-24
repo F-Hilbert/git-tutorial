@@ -1,3 +1,4 @@
 # Git教程
-- deature-A
+- feature-A
 - fix-B
+- feature-C
